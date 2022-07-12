@@ -1,9 +1,8 @@
 "# smartEDU Education Platform Project"
 
-3 roles: \n
-  -Student\n
-    Allowed to Enroll courses\n
-  -Teacher\n
-    Allowed to Create & Delete Courses\n
-  -Admin\n
-
+3 roles: 
+  -Student
+    Allowed to Enroll courses
+  -Teacher
+    Allowed to Create & Delete Courses
+  -Admin
