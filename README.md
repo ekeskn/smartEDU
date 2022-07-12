@@ -1,4 +1,4 @@
-"# smartEDU Education Platform Project"
+"# smartEDU Education Platform Project
 Packages Used:
   -express
   -mongoose
@@ -14,3 +14,4 @@ Packages Used:
   -Teacher
     Allowed to Create & Delete Courses
   -Admin
+"
