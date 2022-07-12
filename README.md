@@ -1,4 +1,12 @@
 "# smartEDU Education Platform Project"
+Packages Used:
+  -express
+  -mongoose
+  -express-session
+  -connect-mongo
+  -connect-flash
+  -method-override  
+
 
 3 roles: 
   -Student
