@@ -1,4 +1,4 @@
-"# smartEDU Education Platform Project
+smartEDU Education Platform Project
 Packages Used:
   -express
   -mongoose
