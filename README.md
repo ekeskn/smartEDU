@@ -28,49 +28,42 @@ The project is structured as follows:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/yourusername/smartedu-app.git
+       git clone https://github.com/yourusername/smartedu-app.git
 Navigate to the project directory:
 
-bash
-
-cd smartedu-app
+      cd smartedu-app
 
 Install the required dependencies:
 
-bash
 
-    npm install
+      npm install
 
-Database Configuration
+## Database Configuration
 
 The application uses a MongoDB database for data storage. Make sure you have MongoDB installed and running locally or provide a remote database URL.
 
 In the app.js file, you can configure the MongoDB connection by modifying the mongoose.connect line:
 
-javascript
 
-mongoose.connect('mongodb://localhost/smartedu-db').then(() => {
+
+    mongoose.connect('mongodb://localhost/smartedu-db').then(() => {
     console.log('DB connected successfully.');
-});
+    });
 
 Replace 'mongodb://localhost/smartedu-db' with your own MongoDB connection URL.
 Running the Application
 
 To start the application, run the following command:
 
-bash
-
-npm start
+    npm start
 
 The server will start, and you'll see a message in the console:
 
-csharp
-
-app started on port 3000
+    app started on port 3000
 
 The application will be accessible at http://localhost:3000.
-Usage
+
+## Usage
 
 The SmartEdu application provides various features related to educational content, course management, user authentication, and more. Refer to the project's specific documentation or codebase to learn more about each feature.
 License
