@@ -63,9 +63,8 @@ The server will start, and you'll see a message in the console:
 
 The application will be accessible at http://localhost:3000.
 
-## Usage
 
 The SmartEdu application provides various features related to educational content, course management, user authentication, and more. Refer to the project's specific documentation or codebase to learn more about each feature.
-License
+
 
 This project is licensed under the MIT License.
