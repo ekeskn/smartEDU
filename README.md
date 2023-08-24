@@ -9,7 +9,6 @@ The SmartEdu Web Application is a web platform built using Express and MongoDB, 
   - [Installation](#installation)
   - [Database Configuration](#database-configuration)
   - [Running the Application](#running-the-application)
-- [Usage](#usage)
 - [License](#license)
 
 ## Project Structure
@@ -66,5 +65,5 @@ The application will be accessible at http://localhost:3000.
 
 The SmartEdu application provides various features related to educational content, course management, user authentication, and more. Refer to the project's specific documentation or codebase to learn more about each feature.
 
-
+## license
 This project is licensed under the MIT License.
