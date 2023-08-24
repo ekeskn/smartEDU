@@ -37,7 +37,7 @@ Install the required dependencies:
 
       npm install
 
-## Database Configuration
+### Database Configuration
 
 The application uses a MongoDB database for data storage. Make sure you have MongoDB installed and running locally or provide a remote database URL.
 
